@@ -1,0 +1,3 @@
+class rd extends duck{
+    
+}
